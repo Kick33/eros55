@@ -46,7 +46,7 @@ const teamMemberOne = [
     favoriteFood: 'pizza',
     favoriteVideoGame:'Horizon zero down',
     favoriteFilm: 'Star wars',
-    favoriteBook: 'Il signore degli anelli',
+    favoriteBook: 'Il signore degli anelli'
     petName: 'Bethoven'
    },
   ]
